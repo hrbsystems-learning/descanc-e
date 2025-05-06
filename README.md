@@ -1,4 +1,4 @@
-# descanc-e
+# disssKãn-Cêee
 
 ### disssKãn-cêee: O Segredo para o Treino Perfeito
 
@@ -12,7 +12,7 @@ Você já ouviu falar do "disssKãn-cêee"? Não? Pois prepare-se para descobrir
 2. **Prevenção de Lesões**: Menos movimento significa menos chances de se machucar. É uma lógica infalível!
 3. **Bem-estar Mental**: Descansar é ótimo para a mente. Imagine passar o treino inteiro meditando ou cochilando. Zen total!
 
-**A Fórmula do disssKãn-cêee**
+**A Fórmula do disssKãn-cêee** (prova kabalística)
 
 Para calcular o tempo ideal de disssKãn-cêee durante o treino, utilizamos a seguinte fórmula complexa:
 
@@ -24,7 +24,7 @@ Onde:
 
 Após anos de pesquisa, descobrimos que, quando \(D = T\), os benefícios atingem seu pico máximo. Ou seja, se você passar todo o tempo do treino descansando, estará no caminho certo para alcançar a perfeição física e mental.
 
-**Limite do disssKãn-cêee**
+**Agora usando o conveito mataemático de Limite**
 
 Para garantir que estamos no caminho certo, utilizamos o conceito de limite:
 
@@ -32,7 +32,7 @@ $$\lim_{t \to T} \frac{D}{T} = 1$$
 
 Isso significa que, à medida que o tempo de treino \(T\) se aproxima do infinito, o tempo de disssKãn-cêee \(D\) também deve se aproximar do infinito. Em outras palavras, quanto mais você treina, mais você deve descansar. Simples, não?
 
-**Séries de disssKãn-cêee**
+**Agora usando conceito matemático de Séries**
 
 Para os amantes de séries matemáticas, aqui está uma série que representa o disssKãn-cêee perfeito:
 
