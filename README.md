@@ -24,7 +24,7 @@ Onde:
 
 Após anos de pesquisa, descobrimos que, quando \(D = T\), os benefícios atingem seu pico máximo. Ou seja, se você passar todo o tempo do treino descansando, estará no caminho certo para alcançar a perfeição física e mental.
 
-**Agora usando o conveito mataemático de Limite**
+**Agora usando o conceito matemático de Limite**
 
 Para garantir que estamos no caminho certo, utilizamos o conceito de limite:
 
